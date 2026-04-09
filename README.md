@@ -7,4 +7,4 @@ This project contains [notes](./Notes.md) related to the videos in Module 03 "Ve
 ### Exercises
 It also contains the [exercises](./Exercises.md) for this module.
 
-<< Back to [DevOps Bootcamp Module Overview](https://github.com/fsiegrist/twn-devops-bootcamp)
+<< Back to [DevOps Bootcamp Module Overview](https://github.com/franpanteli/twn-devops-bootcamp)
